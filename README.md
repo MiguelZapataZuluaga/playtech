@@ -1,8 +1,8 @@
- # Pasos para la instalacion y ejecucion.
+ # Pasos para la instalación y ejecución.
  
-Instalcion de la libreria de testing playwright.
+Instalación de la libreria de testing playwright.
  <pre> npm init playwright@latest  </pre>
 Descargar repositorio
 <pre> git clone https://github.com/MiguelZapataZuluaga/playtech </pre>
-Ejecucion del script Go.js 
+Ejecución del script Go.js 
 <pre> node tests/Go.js </pre> 
